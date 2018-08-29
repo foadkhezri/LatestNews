@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">آخرین آخبار</string>
+    <string name="about">درباره ما</string>
+    <string name="no_news_found">خبری پیدا نشد</string>
+    <string name="no_internet_connection">اینترنت قطع میباشد</string>
+    <string name="filter">فیلتر</string>
+    <string name="settings_title">تنظیمات اخبار</string>
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">نوع مرتب سازی</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_sports_value</string>
+
+    <!-- Label for order-by magnitude option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_sports_label">اخبار ورزشی</string>
+    <string name="settings_order_by_sports_value" translatable="false">sports</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_politics_label">اخبار سیاسی</string>
+    <string name="settings_order_by_politics_value" translatable="false">politics</string>
+
+    <string name="settings_order_by_art_label">اخبار هنری</string>
+    <string name="settings_order_by_art_value" translatable="false">art</string>
+
+    <string name="settings_order_by_culture_label">اخبار فرهنگی</string>
+    <string name="settings_order_by_culture_value" translatable="false">culture</string>
+
+    <string name="settings_order_by_technology_label">اخبار تکنولوژی</string>
+    <string name="settings_order_by_technology_value" translatable="false">technology</string>
+    <string name="news_settings">تنظیمات اخبار</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_sports_label</item>
+        <item>@string/settings_order_by_politics_label</item>
+        <item>@string/settings_order_by_art_label</item>
+        <item>@string/settings_order_by_culture_label</item>
+        <item>@string/settings_order_by_technology_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_sports_value</item>
+        <item>@string/settings_order_by_politics_value</item>
+        <item>@string/settings_order_by_art_value</item>
+        <item>@string/settings_order_by_culture_value</item>
+        <item>@string/settings_order_by_technology_value</item>
+    </string-array>
+</resources>
